@@ -40,7 +40,7 @@ function creatUserCard(user){
                 <p>${user.bio}</p>
                 <ul>
                     <li>${user.followers}<strong>Followers</strong></li>
-                    <li>${user.following}<strong>Followering</strong></li>
+                    <li>${user.following}<strong>Following</strong></li>
                     <li>${user.public_repos}<strong> Repositories</strong></li>
                 </ul>
                 <div id="repos">
